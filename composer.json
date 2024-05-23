@@ -1,0 +1,7 @@
+{
+    "name": "mount7/packagist",
+    "description": "Composer package for security reasons",
+    "require": {
+        "php": ">=7.4"
+    }
+}
