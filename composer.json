@@ -1,5 +1,5 @@
 {
-    "name": "mount7/packagist",
+    "name": "mount7/m7_base",
     "description": "Composer package for security reasons",
     "require": {
         "php": ">=7.4"
